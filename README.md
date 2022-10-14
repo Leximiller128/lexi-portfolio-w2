@@ -1,7 +1,21 @@
 # Portfolio for Lexi Miller
 
-### https://leximiller128.github.io/lexi-portfolio-w2/
+## Usage
 
-Has options for About Me, Work and Contact Me that will be made into clickable links.
+For job recruiting purposes to display work I've created during the bootcamp.
 
-# lexi-portfolio-w2
+## Installation
+
+Download all files and run through a web browser.
+
+## GitHub Repository
+
+https://leximiller128.github.io/lexi-portfolio-w2/
+
+## Examples
+
+## Contributors
+
+- Lexi Miller
+- leximiller128@gmail.com
+- @leximiller128 Github

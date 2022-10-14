@@ -6,7 +6,7 @@ body {
 
  nav {
   font-size: 25px;
-  margin: 10px;
+  margin: 1px;
   color: whitesmoke
 
 }
@@ -21,12 +21,11 @@ outline: none
 body h1 {
     font-size: 30px;
     margin-bottom: 5px;
-    flex: auto;
 }
 
   main {
     width: 100%;
-    margin: .5rem;
+    margin: 2px;
   }
  
   h1,h2, h3 {
@@ -41,9 +40,8 @@ body h1 {
   h5,
   h6 {
     flex:auto;
-    margin-bottom: 20px;
+    margin-bottom: 2px;
     color: rgb(224, 224, 224);
-    font-weight: 500;
     line-height: 2;
     border: 3px solid whitesmoke;
     border-radius: 1em;
@@ -82,4 +80,11 @@ body h1 {
   img {
     height: 300px;
      clip-path: circle();
+  }
+
+  @media (max-width: 600px) {
+    body {
+      width: auto;
+      height: auto;
+    }
   }
