@@ -14,6 +14,8 @@ https://leximiller128.github.io/lexi-portfolio-w2/
 
 ## Examples
 
+![photo of application](./assets/Screen%20Shot%202022-11-16%20at%202.10.37%20PM.png)
+
 ## Contributors
 
 - Lexi Miller
