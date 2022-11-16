@@ -2,7 +2,7 @@
 
 ## Usage
 
-For job recruiting purposes to display work I've created during the bootcamp.
+For job recruiting purposes to display work I've created during the bootcamp and personal contact information.
 
 ## Installation
 
